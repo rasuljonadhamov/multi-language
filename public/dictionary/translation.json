@@ -1,0 +1,26 @@
+{
+  "en": {
+    "translation": {
+      "greet": "Welcome to React and react-i18next Rasuljon",
+      "bye": "Bye from English"
+    }
+  },
+  "fr": {
+    "translation": {
+      "greet": "Bienvenue à React et react-i18next Rasuljon",
+      "bye": "Boju from france"
+    }
+  },
+  "uz": {
+    "translation": {
+      "greet": "Kelajakka hush kelibsiz Rasuljon",
+      "bye": "hayr ozbekistondan"
+    }
+  },
+  "ru": {
+    "translation": {
+      "greet": "Privet vsem Rasuljon",
+      "bye": "Poka u davay"
+    }
+  }
+}
