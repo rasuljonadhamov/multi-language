@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 36px;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.logo-wrapper h1 {
+  color: #1e255e;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.sitenav__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  gap: 20px;
+}
+
+.sitenav__list li {
+    color: #1E255E;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
