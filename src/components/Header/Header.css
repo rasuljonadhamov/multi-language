@@ -35,6 +35,11 @@ header {
   line-height: normal;
 }
 
+.nav-btn {
+  background: #3c4ef3;
+  color: #fff;
+}
+
 .dark-mode {
   background-color: var(--background-color-dark);
   color: var(--text-color-dark);
@@ -43,4 +48,9 @@ header {
 .light-mode {
   background-color: var(--background-color-light);
   color: var(--text-color-light);
+}
+
+select {
+  padding: 5px 10px;
+  border-radius: 5px;
 }
