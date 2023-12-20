@@ -28,9 +28,19 @@ header {
 }
 
 .sitenav__list li {
-    color: #1E255E;
-font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+  color: #1e255e;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.dark-mode {
+  background-color: var(--background-color-dark);
+  color: var(--text-color-dark);
+}
+
+.light-mode {
+  background-color: var(--background-color-light);
+  color: var(--text-color-light);
 }
